@@ -1,2 +1,5 @@
 This is a test file of test_gitFlow.
 Added a new line.
+
+------
+This is plan C
